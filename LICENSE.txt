@@ -1,0 +1,31 @@
+KaikoLibrary 使用许可草稿 — 待项目负责人最终审阅
+PUBLIC DRAFT ONLY — NOT THE FINAL DISTRIBUTION LICENSE
+
+拟定权利人署名：Kaiko。第三方组件仍遵守其各自许可。
+
+1. 拟允许个人及非商业目的免费安装、使用官方发布的 KaikoLibrary。
+2. 拟允许分享官方 GitHub 下载链接，以及撰写介绍、评测和教程。
+3. 未经权利人许可，拟禁止修改、重新打包或重新分发安装包，禁止移除署名或冒充官方版本；不得用于收费、广告捆绑或其他商业分发。
+4. 软件不提供任何作品内容。用户应自行确保其收藏和使用符合适用法律及作品权利人的要求。
+5. 软件按现状提供。用户应备份原图和个人数据；具体责任与法定权利以最终授权文本及适用法律为准。
+6. 本草稿不限制第三方组件权利人及其许可证，也不排除适用法律规定不得排除的用户权利。
+
+本文件仅供 Public Beta 发行前审阅。发布安装包前必须由项目负责人确认正式文本；本草稿不表示安装包已获正式发布许可。请勿将本仓库视为开源仓库。
+
+--- English summary of the same draft (pending final approval) ---
+Proposed attribution: Kaiko. Third-party components retain their own licenses.
+1. Personal, non-commercial use of the official KaikoLibrary build is proposed to be free.
+2. Sharing the official GitHub download link and publishing reviews or tutorials is proposed to be allowed.
+3. Modifying, repackaging, or redistributing the installer, removing attribution, impersonating an official build, and commercial distribution are proposed to require permission.
+4. No works are supplied with the app. Users are responsible for their own collections and applicable rights.
+5. The software is proposed to be supplied as-is. Back up originals and personal data. Mandatory rights under applicable law are unaffected.
+This is a review draft, not the final distribution license. Approval is required before an installer is published. This public documentation repository does not make the source code open source.
+
+--- 日本語要約（最終承認待ちの同一草稿）---
+予定される署名：Kaiko。第三者コンポーネントにはそれぞれのライセンスが適用されます。
+1. 公式版の個人・非商用利用を無料とする予定です。
+2. 公式 GitHub ダウンロードリンクの共有、紹介・レビュー・解説を許可する予定です。
+3. インストーラーの改変・再梱包・再配布、署名の削除、公式版へのなりすまし、商用配布には許可が必要となる予定です。
+4. アプリは作品を提供しません。利用者は自分のコレクションと権利関係を確認してください。
+5. 現状有姿での提供を予定しています。元作品と個人データをバックアップしてください。適用法上の強行的な権利は妨げられません。
+これは審査用草稿であり、最終的な配布ライセンスではありません。インストーラー公開前に責任者の承認が必要です。この公開文書リポジトリはソースコードをオープンソース化するものではありません。

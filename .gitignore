@@ -1,0 +1,21 @@
+# Public documentation repository: never commit program sources or release binaries.
+*.exe
+*.dll
+*.pdb
+*.zip
+*.7z
+*.rar
+*.db
+*.sqlite*
+*.log
+*.har
+UserData/
+bin/
+obj/
+dist/
+tests/
+src/
+desktop/
+dependencies/
+*.tmp
+*.bak
