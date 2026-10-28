@@ -10,4 +10,4 @@
 
 **Library missing after update?** Check that the original folder still exists, its drive is connected, and permission is valid. Do not uninstall or delete UserData. Close the app, preserve backups of originals and app data, then describe the issue in [GitHub Issues](https://github.com/k-kaiko/KaikoLibrary/issues).
 
-**Setup needs WebView2?** Check network access or install the Runtime from [Microsoft's official page](https://developer.microsoft.com/en-us/microsoft-edge/webview2/). The first Beta installer is not available yet and will not initially have a trusted publisher signature.
+**Setup needs WebView2?** Check network access or install the Runtime from [Microsoft's official page](https://developer.microsoft.com/en-us/microsoft-edge/webview2/). The first Beta installer does not have a trusted publisher signature.

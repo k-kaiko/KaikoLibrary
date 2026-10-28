@@ -10,4 +10,4 @@
 
 **升级后找不到书库？** 先确认选择的是原目录、磁盘仍连接、权限有效。不要卸载重装或删除 UserData。关闭应用并保存原图与应用数据备份后，再通过 [Issue](https://github.com/k-kaiko/KaikoLibrary/issues) 说明现象。
 
-**安装器提示缺少 WebView2？** 检查网络，或从[微软官方页面](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)安装 Runtime。首次 Beta 安装包尚未发布，也尚无可信发布者数字签名。
+**安装器提示缺少 WebView2？** 检查网络，或从[微软官方页面](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)安装 Runtime。首次 Beta 安装包尚无可信发布者数字签名。

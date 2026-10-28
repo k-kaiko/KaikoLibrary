@@ -10,4 +10,4 @@
 
 **更新後にライブラリが見つからない：** 元フォルダー、ドライブ接続、権限を確認してください。アンインストールや UserData の削除はしないでください。アプリを閉じ、元画像とアプリデータのバックアップを保管してから [Issue](https://github.com/k-kaiko/KaikoLibrary/issues) に状況を記載してください。
 
-**セットアップで WebView2 が必要：** ネット接続を確認するか、[Microsoft の公式ページ](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)から Runtime をインストールしてください。最初の Beta インストーラーはまだ公開されておらず、信頼された発行者の署名もありません。
+**セットアップで WebView2 が必要：** ネット接続を確認するか、[Microsoft の公式ページ](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)から Runtime をインストールしてください。最初の Beta インストーラーには信頼された発行者の署名がありません。

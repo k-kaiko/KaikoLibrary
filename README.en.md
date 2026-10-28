@@ -2,7 +2,7 @@
 
 **Your personal doujinshi & CG library.** A bookshelf-style collection manager and reader for Windows.
 
-**Public Beta is being prepared; there is no installer in this repository yet.** The planned first public version is `v1.3.0-beta.1`. Please wait for an official Release here and avoid installers offered by third parties.
+**Public Beta v1.3.0-beta.1 is available.** [Download the installer from the official Release](https://github.com/k-kaiko/KaikoLibrary/releases/tag/v1.3.0-beta.1) and compare its SHA-256 with the value shown there. Avoid installers offered by third parties.
 
 ![KaikoLibrary Classic with a synthetic test library](screenshots/classic-shelf.png)
 
@@ -28,7 +28,7 @@ Use it for locally held doujinshi, manga, CG sets, illustrations, and other imag
 
 ## Installation and requirements
 
-Designed for **64-bit Windows 10/11** with **.NET Framework 4.8** and **Microsoft Edge WebView2 Runtime**. If the Runtime is absent, setup may need to contact Microsoft to install it. The installer is **not yet digitally signed by a trusted publisher**, so Windows may show an “Unknown publisher” prompt. Download only from this repository's future official Release and verify its checksum. Not every Windows configuration has been tested. See the [installation guide](docs/installation.en.md).
+Designed for **64-bit Windows 10/11** with **.NET Framework 4.8** and **Microsoft Edge WebView2 Runtime**. If the Runtime is absent, setup may need to contact Microsoft to install it. The installer is **not yet digitally signed by a trusted publisher**, so Windows may show an “Unknown publisher” prompt. Download only from this repository's official Release and verify its checksum. Not every Windows configuration has been tested. See the [installation guide](docs/installation.en.md).
 
 ## Data and privacy
 
@@ -40,4 +40,4 @@ KaikoLibrary does not require you to upload your collection and has no designed 
 
 Remove private paths before reporting. **Do not upload private manga, adult works, library databases, or logs containing sensitive paths.**
 
-Made by **Kaiko**. Free for personal, non-commercial use; source code is currently private. You may share the **official download link** and publish reviews or tutorials. Do not modify or redistribute the installer without permission. See the [license draft pending final approval](LICENSE.txt); third-party components retain their own licenses.
+Public attribution: **Kaiko**. Free for individual personal, non-commercial use; organizational use requires separate permission; source code remains private. You may share the **official download link** and publish independent reviews or tutorials, including those with ordinary advertising or platform revenue. Reasonable private installer backups are allowed. Commercial use, modification, repackaging, rehosting, and redistribution of the installer require permission. The software license grants no rights in works in your collection. See the [official three-language license](LICENSE.txt); third-party components retain their own licenses.

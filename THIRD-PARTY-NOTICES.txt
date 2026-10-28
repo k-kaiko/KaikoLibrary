@@ -1,3 +1,13 @@
+Microsoft.Web.WebView2 SDK 1.0.4258.31
+Components included with KaikoLibrary: Microsoft.Web.WebView2.Core.dll,
+Microsoft.Web.WebView2.WinForms.dll, and WebView2Loader.dll.
+Source of the following SDK license text:
+https://www.nuget.org/packages/Microsoft.Web.WebView2/1.0.4258.31/License
+
+The separately packaged Microsoft Edge WebView2 Runtime bootstrapper installs
+Microsoft's Runtime when needed. It is not the KaikoLibrary application and
+remains subject to Microsoft's own applicable terms.
+
 Copyright (C) Microsoft Corporation. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

@@ -1,31 +1,100 @@
-KaikoLibrary 使用许可草稿 — 待项目负责人最终审阅
-PUBLIC DRAFT ONLY — NOT THE FINAL DISTRIBUTION LICENSE
+KaikoLibrary v1.3.0-beta.1 软件使用许可
+许可方以 Kaiko 为公开署名，并确认有权授予本软件许可；本许可不披露许可方的法定姓名。法律通知与商业授权联系邮箱：neko.qwq@gmail.com。本许可自许可方首次通过 KaikoLibrary 官方 GitHub Releases 发布 v1.3.0-beta.1 安装包并同时附带本许可时，对该版本生效。简体中文、英文和日文文本具有同等效力。
 
-拟定权利人署名：Kaiko。第三方组件仍遵守其各自许可。
+1. 范围与定义
+“软件”指由许可方通过 KaikoLibrary 官方 GitHub Releases 提供、明确随附本许可的 KaikoLibrary 程序及安装包；不包括用户收藏的作品，也不替代第三方组件的许可。本许可适用于 v1.3.0-beta.1 官方二进制版本。公开文档仓库不因此成为开源代码仓库。
 
-1. 拟允许个人及非商业目的免费安装、使用官方发布的 KaikoLibrary。
-2. 拟允许分享官方 GitHub 下载链接，以及撰写介绍、评测和教程。
-3. 未经权利人许可，拟禁止修改、重新打包或重新分发安装包，禁止移除署名或冒充官方版本；不得用于收费、广告捆绑或其他商业分发。
-4. 软件不提供任何作品内容。用户应自行确保其收藏和使用符合适用法律及作品权利人的要求。
-5. 软件按现状提供。用户应备份原图和个人数据；具体责任与法定权利以最终授权文本及适用法律为准。
-6. 本草稿不限制第三方组件权利人及其许可证，也不排除适用法律规定不得排除的用户权利。
+2. 自然人个人非商业许可与备份
+在遵守本许可的前提下，许可方授予自然人用户非独占、不可转让的权利，在其自行控制的设备上为个人、非商业目的下载、安装和使用官方软件，并为私人保存和恢复制作合理数量的完整软件及安装包备份。备份须保留随附许可、版权和第三方声明，不得交付他人。应用内设置、标签及个人作品整理属于正常使用，不属于修改软件。组织使用，包括组织的非商业使用，不在本条授权范围内，须另行取得授权。
 
-本文件仅供 Public Beta 发行前审阅。发布安装包前必须由项目负责人确认正式文本；本草稿不表示安装包已获正式发布许可。请勿将本仓库视为开源仓库。
+3. 商业使用与再分发
+未事先取得许可方单独授权，不得将软件用于商业业务、有偿服务或其他商业目的；不得向第三方发送安装包或备份、重新托管下载、镜像、捆绑、重新打包、销售或以其他方式再分发软件。可以分享官方 GitHub 下载链接。商业许可的条件须另行约定。
 
---- English summary of the same draft (pending final approval) ---
-Proposed attribution: Kaiko. Third-party components retain their own licenses.
-1. Personal, non-commercial use of the official KaikoLibrary build is proposed to be free.
-2. Sharing the official GitHub download link and publishing reviews or tutorials is proposed to be allowed.
-3. Modifying, repackaging, or redistributing the installer, removing attribution, impersonating an official build, and commercial distribution are proposed to require permission.
-4. No works are supplied with the app. Users are responsible for their own collections and applicable rights.
-5. The software is proposed to be supplied as-is. Back up originals and personal data. Mandatory rights under applicable law are unaffected.
-This is a review draft, not the final distribution license. Approval is required before an installer is published. This public documentation repository does not make the source code open source.
+4. 独立介绍、评测与教程
+任何人均可独立介绍、评测和制作本软件的使用教程，包括从普通广告、平台分成或类似内容创作渠道取得收入；这类内容创作本身不视为第 3 条禁止的商业使用或商业分发软件。为说明软件可合理展示软件界面，但不得因此重新分发安装包、冒充官方、暗示许可方认可评测，或使用未经授权的用户作品、第三方作品及个人资料。
 
---- 日本語要約（最終承認待ちの同一草稿）---
-予定される署名：Kaiko。第三者コンポーネントにはそれぞれのライセンスが適用されます。
-1. 公式版の個人・非商用利用を無料とする予定です。
-2. 公式 GitHub ダウンロードリンクの共有、紹介・レビュー・解説を許可する予定です。
-3. インストーラーの改変・再梱包・再配布、署名の削除、公式版へのなりすまし、商用配布には許可が必要となる予定です。
-4. アプリは作品を提供しません。利用者は自分のコレクションと権利関係を確認してください。
-5. 現状有姿での提供を予定しています。元作品と個人データをバックアップしてください。適用法上の強行的な権利は妨げられません。
-これは審査用草稿であり、最終的な配布ライセンスではありません。インストーラー公開前に責任者の承認が必要です。この公開文書リポジトリはソースコードをオープンソース化するものではありません。
+5. 修改与衍生版本
+除适用法律明确规定不得排除的行为外，未经许可方单独授权，不得修改或重新打包软件，不得制作、发布或分发软件的衍生版本，不得去除版权、许可、来源或完整性标识。本条不限制第 2 条所述正常设置和个人数据管理，也不限制第三方组件许可独立授予的权利。
+
+6. 权利保留
+许可方和其他相应权利人保留软件、品牌、界面和资料中依法享有的权利。本许可只授予上述有限的软件使用权，不转让版权，不授予源代码访问、复制、修改或分发权，也不授予商标认可或官方身份。用户收藏作品及截图中第三方作品的权利属于各自权利人；本许可不授予对这些作品的复制、传播或商业利用权。
+
+7. 第三方组件
+随软件提供或由系统安装的第三方组件，包括 Microsoft Edge WebView2，分别适用其自身许可与声明。本许可不缩减第三方许可已经授予的权利，也不替代其要求。相关声明随官方安装包提供。
+
+8. 按现状提供与责任范围
+在适用法律允许的范围内，软件按现状提供，不保证持续无错误、适合每一种图像或设备、保留所有记录或不会丢失数据。用户应自行备份原始作品和应用数据。对于软件使用造成的间接或附带损失，许可方仅在适用法律允许的范围内限制责任；本条不排除不得依法排除的保证、救济或责任。本条不构成对任何具体地区法律效果的保证。
+
+9. 违约、终止与恢复授权
+在适用法律允许的范围内，用户违反本许可时，本许可授予该用户的权利立即终止，不设一般补救宽限期；终止不取决于事先通知。终止后用户应停止使用并删除其控制下的软件及安装包副本，包括私人备份，但无需删除自己的作品或本地个人数据。法律要求保留的副本及不得排除的法定权利不受影响。许可方可以另行书面恢复授权；违约停止或补救本身不自动恢复已终止的许可。本条不排除适用法律强制要求的通知、补救机会或其他救济。
+
+10. 法定例外与多语言解释
+任何条款均不限制适用法律中不得通过合同排除的使用、互操作、消费者或其他权利。简体中文、英文和日文正式文本具有同等效力，不设任何一种语言优先。文本出现差异时，各方先善意协商；未能达成一致的，依法处理。本许可不指定专属适用法律或争议解决法域；相关问题依适用法律处理。
+
+—— English / 英语 / 英語 ——
+KaikoLibrary v1.3.0-beta.1 Software License
+The Licensor is publicly credited as Kaiko and confirms that they are entitled to license the Software; this license does not disclose the Licensor's legal name. For legal notices and commercial-license requests, contact neko.qwq@gmail.com. This license takes effect for v1.3.0-beta.1 when the Licensor first publishes its installer through the official KaikoLibrary GitHub Releases with this license attached. The Simplified Chinese, English, and Japanese texts have equal effect.
+
+1. Scope and definitions
+“Software” means the official KaikoLibrary program and installer supplied by the licensor through KaikoLibrary's official GitHub Releases with this license attached. It excludes works in a user's collection and does not replace third-party licenses. This license applies to the official v1.3.0-beta.1 binaries. A public documentation repository does not thereby become an open-source code repository.
+
+2. Individual personal, non-commercial use and backup
+Subject to this license, the licensor grants a natural person a non-exclusive, non-transferable right to download, install, and use the official Software on devices they control for personal, non-commercial purposes, and to make a reasonable number of complete Software and installer backups for private retention and recovery. Backups must retain the accompanying license, copyright, and third-party notices and must not be supplied to others. In-app settings, tags, and organization of personal works are normal use, not modification of the Software. Organizational use, including non-commercial organizational use, is outside this grant and requires separate authorization.
+
+3. Commercial use and redistribution
+Without separate prior authorization from the licensor, you may not use the Software in a commercial business, paid service, or for another commercial purpose. You may not send the installer or backups to third parties, host or mirror downloads, bundle, repackage, sell, or otherwise redistribute the Software. You may share the official GitHub download link. Commercial-license terms require a separate agreement.
+
+4. Independent coverage, reviews, and tutorials
+Anyone may independently describe or review the Software and create tutorials, including content that earns ordinary advertising revenue, platform revenue sharing, or similar creator income. This content creation alone is not prohibited commercial use or redistribution under Section 3. Reasonable display of the Software interface is allowed to explain it, but this does not permit redistribution of the installer, impersonation of the official publisher, implying endorsement by the licensor, or use of unauthorized user works, third-party works, or personal data.
+
+5. Modification and derivative versions
+Except for conduct that applicable law does not permit a contract to exclude, separate authorization from the licensor is required to modify or repackage the Software; to make, publish, or distribute a derivative version; or to remove copyright, license, source, or integrity notices. This section does not restrict normal settings or personal-data management under Section 2, or rights granted independently by third-party licenses.
+
+6. Rights reserved
+The licensor and other respective right holders retain the rights they lawfully hold in the Software, brand, interface, and materials. This license grants only the limited Software-use rights stated above. It does not transfer copyright or grant access to, or rights to copy, modify, or distribute, source code. It does not confer trademark endorsement or official status. Rights in a user's collection and any third-party works shown in screenshots belong to their respective holders; this license grants no right to copy, communicate, or commercially exploit those works.
+
+7. Third-party components
+Third-party components supplied with the Software or installed by the system, including Microsoft Edge WebView2, remain subject to their own licenses and notices. This license does not narrow rights granted by those licenses or replace their requirements. Relevant notices accompany the official installer.
+
+8. As-is provision and liability
+To the extent permitted by applicable law, the Software is provided as is, without a promise of uninterrupted or error-free operation, suitability for every image or device, preservation of every record, or absence of data loss. Users should back up original works and application data. Liability for indirect or incidental loss is limited only to the extent applicable law permits; no warranty, remedy, or liability that cannot lawfully be excluded is excluded. This section makes no promise about its legal effect in any particular jurisdiction.
+
+9. Breach, termination, and reinstatement
+To the extent permitted by applicable law, if a user breaches this license, the rights granted to that user under it terminate immediately, without a general cure period or a requirement for prior notice. Upon termination, the user must stop using and delete Software and installer copies under their control, including private backups, but need not delete their own works or local personal data. Copies required by law and mandatory statutory rights remain unaffected. The licensor may reinstate permission by separate written agreement; stopping or curing a breach does not itself reinstate a terminated license. This section does not exclude any notice, opportunity to cure, or other remedy that applicable law requires.
+
+10. Mandatory rights and multilingual interpretation
+Nothing in this license limits use, interoperability, consumer, or other rights that applicable law does not permit a contract to exclude. The final Simplified Chinese, English, and Japanese texts have equal effect; none takes precedence. In case of a difference between them, the parties will first seek a resolution in good faith; failing agreement, the matter will be handled under applicable law. This license does not specify an exclusive governing law or dispute-resolution forum; those matters are handled under applicable law.
+
+—— 日本語 / 日语 / Japanese ——
+KaikoLibrary v1.3.0-beta.1 ソフトウェア利用許諾
+許諾者の公開上の表記は Kaiko であり、本ソフトウェアを許諾する権利を有することを確認しています。本許諾は許諾者の法的氏名を開示するものではありません。法的通知および商用利用の許諾に関する連絡先：neko.qwq@gmail.com。本許諾は、許諾者が KaikoLibrary 公式 GitHub Releases で v1.3.0-beta.1 のインストーラーに本許諾を添えて初めて公開した時点から、その版に適用されます。簡体字中国語・英語・日本語の各本文は同等の効力を持ちます。
+
+1. 対象と定義
+「本ソフトウェア」とは、許諾者が KaikoLibrary の公式 GitHub Releases を通じ、本許諾を添えて提供する公式プログラムとインストーラーを指します。利用者のコレクションに含まれる作品を含まず、第三者のライセンスに代わるものでもありません。本許諾は公式の v1.3.0-beta.1 バイナリーに適用されます。公開文書リポジトリを設けることは、ソースコードのオープンソース化を意味しません。
+
+2. 自然人による個人的・非商用利用とバックアップ
+本許諾を守ることを条件として、許諾者は自然人の利用者に、自ら管理する機器で公式版を個人的かつ非商用の目的でダウンロード、インストール、利用し、私的な保管と復旧のため合理的な数のソフトウェアおよびインストーラーの完全なバックアップを作成する非独占的・譲渡不能の権利を認めます。バックアップには添付の許諾、著作権表示、第三者への通知を残し、他人へ渡してはなりません。アプリ内設定、タグ、個人作品の整理は通常の利用であり、ソフトウェアの改変ではありません。非商用の場合を含む組織としての利用は本条の対象外であり、別途許可が必要です。
+
+3. 商用利用と再配布
+許諾者から事前に別途許可を得ない限り、商業事業、有償サービス、その他の商用目的で本ソフトウェアを利用することはできません。インストーラーやバックアップを第三者へ送付したり、ダウンロードの再ホスト・ミラー提供、抱き合わせ、再梱包、販売その他の再配布を行ったりすることはできません。公式 GitHub のダウンロードリンクは共有できます。商用許諾の条件は別途合意が必要です。
+
+4. 独立した紹介・レビュー・解説
+誰でも独立して本ソフトウェアを紹介・評価し、使い方を解説できます。通常の広告収入、プラットフォームの収益分配、同様の制作者収入を伴う場合も含みます。このようなコンテンツ制作自体は、第 3 条で禁止する商用利用やソフトウェアの再配布には当たりません。説明に必要な範囲で本ソフトウェアの画面を表示できますが、インストーラーの再配布、公式発行者へのなりすまし、許諾者がレビューを推奨したと誤認させる表示、許可のない利用者作品・第三者作品・個人情報の使用は認めません。
+
+5. 改変と派生版
+適用法上、契約で排除できない行為を除き、本ソフトウェアの改変・再梱包、派生版の制作・公開・配布、または著作権・許諾・出所・完全性に関する表示の除去には、許諾者の別途の許可が必要です。本条は第 2 条の通常の設定や個人データの管理、または第三者ライセンスから独立して得られる権利を制限しません。
+
+6. 権利の留保
+許諾者および各権利者は、本ソフトウェア、ブランド、画面、資料について法律上保有する権利を留保します。本許諾は上記の限定的な利用権のみを与え、著作権を譲渡しません。ソースコードへのアクセスや、その複製・改変・配布の権利も与えません。商標上の公認や公式の地位も与えません。利用者のコレクションやスクリーンショット中の第三者作品の権利は各権利者に帰属し、本許諾はそれらの複製、伝達、商業利用を許すものではありません。
+
+7. 第三者コンポーネント
+本ソフトウェアに同梱され、またはシステムにより導入される Microsoft Edge WebView2 などの第三者コンポーネントには、それぞれ独自のライセンスと通知が適用されます。本許諾は第三者ライセンスが与える権利を狭めず、その要件に代わりません。関連する通知は公式インストーラーに添付されます。
+
+8. 現状有姿と責任範囲
+適用法で認められる範囲で、本ソフトウェアは現状有姿で提供されます。中断やエラーのない動作、すべての画像・機器への適合、すべての記録の保持、データ消失がないことを保証しません。利用者は元作品とアプリデータをバックアップしてください。間接的・付随的損失に関する責任を制限するのは、適用法が認める範囲に限ります。法律上排除できない保証、救済、責任は排除しません。本条は特定の法域での法的効果を保証するものではありません。
+
+9. 違反、終了と許諾の回復
+適用法で認められる範囲で、利用者が本許諾に違反した場合、その利用者に与えられた権利は直ちに終了します。一般的な是正猶予期間は設けず、終了に事前通知を要しません。終了後、利用者は本ソフトウェアの使用を止め、管理下のソフトウェアおよびインストーラーの複製物（私的バックアップを含む）を削除する必要がありますが、自分の作品やローカルの個人データを削除する必要はありません。法律上保存が必要な複製物や排除できない法定の権利は影響を受けません。許諾者は別途の書面合意により許諾を回復できますが、違反の停止や是正だけで終了した許諾が自動的に回復することはありません。適用法が義務付ける通知、是正の機会、その他の救済は排除しません。
+
+10. 強行的な権利と多言語の解釈
+本許諾は、適用法上、契約で排除できない利用、相互運用、消費者その他の権利を制限しません。正式な簡体字中国語・英語・日本語の各本文は同等の効力を持ち、いずれも優先しません。本文に相違がある場合、当事者はまず誠実に協議し、合意できなければ適用法に従って扱います。本許諾は専属の準拠法や紛争解決の法域を指定せず、関連事項は適用法に従って扱います。

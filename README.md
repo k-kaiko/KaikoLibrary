@@ -2,7 +2,7 @@
 
 **一座属于你自己的本地同人志与 CG 图集图书馆。** 适用于 Windows 的书架式收藏管理与阅读软件。
 
-**公开 Beta 准备中：本仓库暂未提供安装包。** 首次公开版本拟命名为 `v1.3.0-beta.1`。请等待本仓库的正式 Release，不要从第三方取得所谓“官方安装包”。
+**Public Beta v1.3.0-beta.1 已发布。** [从官方 Release 下载安装包](https://github.com/k-kaiko/KaikoLibrary/releases/tag/v1.3.0-beta.1)，并核对页面列出的 SHA-256；不要从第三方取得所谓“官方安装包”。
 
 ![使用虚构书库拍摄的 KaikoLibrary Classic 界面](screenshots/classic-shelf.png)
 
@@ -28,7 +28,7 @@
 
 ## 安装与系统要求
 
-面向 **Windows 10/11 64 位**，需要 **.NET Framework 4.8** 与 **Microsoft Edge WebView2 Runtime**。缺少 WebView2 Runtime 时，安装过程可能需要连接微软服务。安装包目前**尚无可信发布者数字签名**，Windows 可能提示“未知发布者”；请仅从本仓库将来的官方 Release 下载并核对校验值。不同系统环境尚未全部实测。详见[安装说明](docs/installation.md)。
+面向 **Windows 10/11 64 位**，需要 **.NET Framework 4.8** 与 **Microsoft Edge WebView2 Runtime**。缺少 WebView2 Runtime 时，安装过程可能需要连接微软服务。安装包目前**尚无可信发布者数字签名**，Windows 可能提示“未知发布者”；请仅从本仓库的官方 Release 下载并核对校验值。不同系统环境尚未全部实测。详见[安装说明](docs/installation.md)。
 
 ## 数据与隐私
 
@@ -40,4 +40,4 @@ KaikoLibrary 不要求上传个人收藏，当前没有设计主动遥测功能�
 
 反馈前请移除私人路径。**不要上传私人漫画、成人作品、书库数据库或含敏感路径的日志。**
 
-KaikoLibrary 由 **Kaiko** 制作，免费供个人及非商业用途使用；源码暂不公开。欢迎分享**官方仓库下载链接**、撰写介绍与教程。安装包未经授权不得修改或重新分发。完整条款见[待最终确认的许可草稿](LICENSE.txt)，第三方组件遵守各自许可。
+KaikoLibrary 对外署名 **Kaiko**，免费供自然人个人非商业使用；组织使用须另行获许可；源码暂不公开。欢迎分享**官方仓库下载链接**，独立介绍、评测和教程也可取得正常广告或平台分成。允许合理的私人安装包备份；未经授权不得商业使用、修改、重新打包、重新托管或重新分发安装包；软件许可不授予收藏作品的版权。完整条款见[正式中英日三语许可](LICENSE.txt)，第三方组件遵守各自许可。

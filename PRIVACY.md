@@ -1,4 +1,4 @@
-# 隐私说明（Public Beta 准备稿）
+# 隐私说明（Public Beta）
 
 KaikoLibrary 是本地优先的 Windows 阅读与收藏管理软件，**无需账户**。你主动选择书库目录后，应用在本机读取文件夹和支持的图片/ZIP；它不要求将个人收藏上传到服务端，也没有设计主动遥测或云同步功能。
 
@@ -8,4 +8,4 @@ KaikoLibrary 是本地优先的 Windows 阅读与收藏管理软件，**无需�
 
 本软件**不保证匿名、无痕或加密存储**。能使用你 Windows 账户的人或其他本机软件可能接触这些数据。备份前关闭应用，并分别保存原始图像与应用数据。不要把真实数据库、私人漫画或成人作品附到公开 Issue。
 
-本说明依据 V1.3-P4 RC 的现有设计拟定，首次公开发行前仍需核对最终安装包。反馈：[GitHub Issues](https://github.com/k-kaiko/KaikoLibrary/issues)。
+本说明对应 v1.3.0-beta.1。反馈：[GitHub Issues](https://github.com/k-kaiko/KaikoLibrary/issues)。
