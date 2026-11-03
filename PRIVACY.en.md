@@ -1,4 +1,4 @@
-# Privacy notice (Public Beta)
+# Privacy notice
 
 KaikoLibrary is a local-first Windows reader and collection manager. **No account is required.** After you choose a library folder, the app reads supported image folders and ZIP files on your computer. It does not require uploading your collection and has no designed active telemetry or cloud sync.
 
