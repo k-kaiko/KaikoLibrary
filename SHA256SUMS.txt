@@ -1,1 +1,1 @@
-5352b70ee12cb0b3746a2607132b0c3799b49b8e531f2288731a012b7f78a44f  KaikoLibrary v1.3.0-beta.1 Setup.exe
+19a45bf4ada1e49a4dad7d34d9a8356696ff98c4a7e9de2e5da93b970d82c4df  KaikoLibrary.v1.4.0.Setup.exe

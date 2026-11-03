@@ -1,8 +1,8 @@
-KaikoLibrary v1.3.0-beta.1 软件使用许可
-许可方以 Kaiko 为公开署名，并确认有权授予本软件许可；本许可不披露许可方的法定姓名。法律通知与商业授权联系邮箱：neko.qwq@gmail.com。本许可自许可方首次通过 KaikoLibrary 官方 GitHub Releases 发布 v1.3.0-beta.1 安装包并同时附带本许可时，对该版本生效。简体中文、英文和日文文本具有同等效力。
+KaikoLibrary v1.4.0 软件使用许可
+许可方以 Kaiko 为公开署名，并确认有权授予本软件许可；本许可不披露许可方的法定姓名。法律通知与商业授权联系邮箱：neko.qwq@gmail.com。本许可自许可方首次通过 KaikoLibrary 官方 GitHub Releases 发布 v1.4.0 安装包并同时附带本许可时，对该版本生效。简体中文、英文和日文文本具有同等效力。
 
 1. 范围与定义
-“软件”指由许可方通过 KaikoLibrary 官方 GitHub Releases 提供、明确随附本许可的 KaikoLibrary 程序及安装包；不包括用户收藏的作品，也不替代第三方组件的许可。本许可适用于 v1.3.0-beta.1 官方二进制版本。公开文档仓库不因此成为开源代码仓库。
+“软件”指由许可方通过 KaikoLibrary 官方 GitHub Releases 提供、明确随附本许可的 KaikoLibrary 程序及安装包；不包括用户收藏的作品，也不替代第三方组件的许可。本许可适用于 v1.4.0 官方二进制版本。公开文档仓库不因此成为开源代码仓库。
 
 2. 自然人个人非商业许可与备份
 在遵守本许可的前提下，许可方授予自然人用户非独占、不可转让的权利，在其自行控制的设备上为个人、非商业目的下载、安装和使用官方软件，并为私人保存和恢复制作合理数量的完整软件及安装包备份。备份须保留随附许可、版权和第三方声明，不得交付他人。应用内设置、标签及个人作品整理属于正常使用，不属于修改软件。组织使用，包括组织的非商业使用，不在本条授权范围内，须另行取得授权。
@@ -32,11 +32,11 @@ KaikoLibrary v1.3.0-beta.1 软件使用许可
 任何条款均不限制适用法律中不得通过合同排除的使用、互操作、消费者或其他权利。简体中文、英文和日文正式文本具有同等效力，不设任何一种语言优先。文本出现差异时，各方先善意协商；未能达成一致的，依法处理。本许可不指定专属适用法律或争议解决法域；相关问题依适用法律处理。
 
 —— English / 英语 / 英語 ——
-KaikoLibrary v1.3.0-beta.1 Software License
-The Licensor is publicly credited as Kaiko and confirms that they are entitled to license the Software; this license does not disclose the Licensor's legal name. For legal notices and commercial-license requests, contact neko.qwq@gmail.com. This license takes effect for v1.3.0-beta.1 when the Licensor first publishes its installer through the official KaikoLibrary GitHub Releases with this license attached. The Simplified Chinese, English, and Japanese texts have equal effect.
+KaikoLibrary v1.4.0 Software License
+The Licensor is publicly credited as Kaiko and confirms that they are entitled to license the Software; this license does not disclose the Licensor's legal name. For legal notices and commercial-license requests, contact neko.qwq@gmail.com. This license takes effect for v1.4.0 when the Licensor first publishes its installer through the official KaikoLibrary GitHub Releases with this license attached. The Simplified Chinese, English, and Japanese texts have equal effect.
 
 1. Scope and definitions
-“Software” means the official KaikoLibrary program and installer supplied by the licensor through KaikoLibrary's official GitHub Releases with this license attached. It excludes works in a user's collection and does not replace third-party licenses. This license applies to the official v1.3.0-beta.1 binaries. A public documentation repository does not thereby become an open-source code repository.
+“Software” means the official KaikoLibrary program and installer supplied by the licensor through KaikoLibrary's official GitHub Releases with this license attached. It excludes works in a user's collection and does not replace third-party licenses. This license applies to the official v1.4.0 binaries. A public documentation repository does not thereby become an open-source code repository.
 
 2. Individual personal, non-commercial use and backup
 Subject to this license, the licensor grants a natural person a non-exclusive, non-transferable right to download, install, and use the official Software on devices they control for personal, non-commercial purposes, and to make a reasonable number of complete Software and installer backups for private retention and recovery. Backups must retain the accompanying license, copyright, and third-party notices and must not be supplied to others. In-app settings, tags, and organization of personal works are normal use, not modification of the Software. Organizational use, including non-commercial organizational use, is outside this grant and requires separate authorization.
@@ -66,11 +66,11 @@ To the extent permitted by applicable law, if a user breaches this license, the 
 Nothing in this license limits use, interoperability, consumer, or other rights that applicable law does not permit a contract to exclude. The final Simplified Chinese, English, and Japanese texts have equal effect; none takes precedence. In case of a difference between them, the parties will first seek a resolution in good faith; failing agreement, the matter will be handled under applicable law. This license does not specify an exclusive governing law or dispute-resolution forum; those matters are handled under applicable law.
 
 —— 日本語 / 日语 / Japanese ——
-KaikoLibrary v1.3.0-beta.1 ソフトウェア利用許諾
-許諾者の公開上の表記は Kaiko であり、本ソフトウェアを許諾する権利を有することを確認しています。本許諾は許諾者の法的氏名を開示するものではありません。法的通知および商用利用の許諾に関する連絡先：neko.qwq@gmail.com。本許諾は、許諾者が KaikoLibrary 公式 GitHub Releases で v1.3.0-beta.1 のインストーラーに本許諾を添えて初めて公開した時点から、その版に適用されます。簡体字中国語・英語・日本語の各本文は同等の効力を持ちます。
+KaikoLibrary v1.4.0 ソフトウェア利用許諾
+許諾者の公開上の表記は Kaiko であり、本ソフトウェアを許諾する権利を有することを確認しています。本許諾は許諾者の法的氏名を開示するものではありません。法的通知および商用利用の許諾に関する連絡先：neko.qwq@gmail.com。本許諾は、許諾者が KaikoLibrary 公式 GitHub Releases で v1.4.0 のインストーラーに本許諾を添えて初めて公開した時点から、その版に適用されます。簡体字中国語・英語・日本語の各本文は同等の効力を持ちます。
 
 1. 対象と定義
-「本ソフトウェア」とは、許諾者が KaikoLibrary の公式 GitHub Releases を通じ、本許諾を添えて提供する公式プログラムとインストーラーを指します。利用者のコレクションに含まれる作品を含まず、第三者のライセンスに代わるものでもありません。本許諾は公式の v1.3.0-beta.1 バイナリーに適用されます。公開文書リポジトリを設けることは、ソースコードのオープンソース化を意味しません。
+「本ソフトウェア」とは、許諾者が KaikoLibrary の公式 GitHub Releases を通じ、本許諾を添えて提供する公式プログラムとインストーラーを指します。利用者のコレクションに含まれる作品を含まず、第三者のライセンスに代わるものでもありません。本許諾は公式の v1.4.0 バイナリーに適用されます。公開文書リポジトリを設けることは、ソースコードのオープンソース化を意味しません。
 
 2. 自然人による個人的・非商用利用とバックアップ
 本許諾を守ることを条件として、許諾者は自然人の利用者に、自ら管理する機器で公式版を個人的かつ非商用の目的でダウンロード、インストール、利用し、私的な保管と復旧のため合理的な数のソフトウェアおよびインストーラーの完全なバックアップを作成する非独占的・譲渡不能の権利を認めます。バックアップには添付の許諾、著作権表示、第三者への通知を残し、他人へ渡してはなりません。アプリ内設定、タグ、個人作品の整理は通常の利用であり、ソフトウェアの改変ではありません。非商用の場合を含む組織としての利用は本条の対象外であり、別途許可が必要です。

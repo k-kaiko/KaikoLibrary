@@ -2,7 +2,7 @@
 
 **Your personal doujinshi & CG library.** A bookshelf-style collection manager and reader for Windows.
 
-**Public Beta v1.3.0-beta.1 is available.** [Download the installer from the official Release](https://github.com/k-kaiko/KaikoLibrary/releases/tag/v1.3.0-beta.1) and compare its SHA-256 with the value shown there. Avoid installers offered by third parties.
+**Stable v1.4.0 is available.** [Download the installer from the official Release](https://github.com/k-kaiko/KaikoLibrary/releases/tag/v1.4.0) and compare its SHA-256 with the value shown there. Avoid installers offered by third parties.
 
 ![KaikoLibrary Classic with a synthetic test library](screenshots/classic-shelf.png)
 
@@ -12,8 +12,8 @@ Interface languages: **[简体中文](README.md) / English / [日本語](README.
 
 - **Local-first:** no account required; original images remain in the folders you choose.
 - **Bookshelf browsing:** cover views for image folders and ordinary ZIP collections, including nested folders.
-- **Organization:** favorites, tags, groups, search, sorting, and filters.
-- **Continue reading:** saved progress, page turning, zoom, pan, fullscreen, and thumbnail navigation.
+- **Organization:** favorites, tags, groups, search, sorting and filters; previewed, confirmed batch tags with session undo.
+- **Continue reading:** saved progress; single, facing-page and vertical-scroll layouts; direction, zoom, pan, fullscreen and thumbnail navigation.
 - **Three interface languages and four themes:** KaikoLibrary Classic, Simple Light, Warm Paper, and Forest Study.
 
 Use it for locally held doujinshi, manga, CG sets, illustrations, and other image collections, including adult-oriented works you already possess. KaikoLibrary **does not provide, host, or distribute any works**. It has no online downloader or cloud sync.
@@ -25,6 +25,9 @@ Use it for locally held doujinshi, manga, CG sets, illustrations, and other imag
 ![Forest Study](screenshots/forest-study.png)
 
 </details>
+
+> Theme illustrations use approved earlier-version screenshots with synthetic content. V1.4 updates card, paging and reader controls. No works are bundled.
+
 
 ## Installation and requirements
 
